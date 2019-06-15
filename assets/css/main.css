@@ -4722,3 +4722,7 @@ li.cinq
 		opacity: 0;
 	}
 }
+
+ul {
+	list-style: none;
+}
