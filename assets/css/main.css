@@ -2380,7 +2380,7 @@ input[type="radio"]:focus+label:before {
 }
 
 .icon {
-	color: #e0e0e0;
+	color: #999999;
 }
 
 /* Image */
